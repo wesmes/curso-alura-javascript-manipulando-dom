@@ -1,2 +1,4 @@
 # curso-alura-javascript-manipulando-dom
-[ANDAMENTO] JavaScript: manipulando o DOM
+[FINALIZADO] JavaScript: manipulando o DOM
+
+https://cursos.alura.com.br/user/wes-gomes/course/javascript-manipulando-dom/certificate
